@@ -1,4 +1,12 @@
-# 🧪 Pruebas de Normalidad en Python: Comparación y Análisis
+# Indice
+
+1. [Introducción](#introducción)
+2. [Distribuciones](#distribuciones-analizadas)
+    - [Distribución Normal](#Distribución-Normal)
+
+# Distribuciones
+
+# Distribución Normal
 
 Este proyecto tiene como objetivo explorar y comparar **tres pruebas estadísticas de normalidad** utilizando Python, a través de un ejemplo práctico con datos simulados. Incluye visualizaciones, interpretación crítica y consideraciones técnicas que demuestran cómo evaluar la normalidad en un conjunto de datos.
 
@@ -6,7 +14,7 @@ Este proyecto tiene como objetivo explorar y comparar **tres pruebas estadístic
 
 ## 📚 Contenido del Notebook
 
-El archivo `distribucion_normal.ipynb` incluye:
+El archivo [`distribucion_normal.ipynb`](./distribucion_normal.ipynb) incluye:
 
 ### 1. **Generación de Datos**
 - Simulación de una variable sesgada (log-normal) para probar los límites de cada test.
